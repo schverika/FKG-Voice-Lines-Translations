@@ -1,0 +1,264 @@
+{
+	"translations": {
+		"Primrose": {
+			"Introduction": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translation of raw-japanese>"
+			},
+			"Appearance": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Starting a Battle 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"General (Happy)": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Attacking 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Attacking 2": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"General (Sad)": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Battle Skill 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Battle Skill 2": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"General (Anger)": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Hit Damage": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Hit Damage (Fatal)": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Cannot Battle": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"General (Excited)": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Victory in Battle 1 (Normal Victory)": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Victory in Battle 2 (Narrow Victory)": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Logging in 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Victory in Battle 3 (Easy Victory)": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Unable to Defeat the Enemy 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Unable to Defeat the Enemy 2": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Logging in 2": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Hidden Door Found": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Treasure Chest": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Talking 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Party Member Selection 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Party Member Selection 2": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Change Equipment": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Talking 2": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Leveling Up": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Evolution": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Play Gacha FREE 1x Daily": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"My Page General Use 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Talking 3": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"My Page General Use 2": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Stamina is fully recovered": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"My Page General use 3": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"My Page Placement": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Giving Gifts 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Giving Gifts 2": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Moving 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Moving 2": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Title": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Login Bonus": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			}
+		}
+	}
+}

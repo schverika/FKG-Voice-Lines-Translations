@@ -2,25 +2,25 @@
 	"translations": {
 		"Apricot": {
 			"Introduction": {
-				"raw-japanese": "<Moonrunes>",
+				"raw-japanese": "アプリコット、です。えっと、自己紹介しますね……？ 花言葉は「臆病な愛」「疑い」「疑惑」。はい、その通りな感じです。 恋愛とか色んなことを疑っちゃって、 もしかして気分、悪くさせちゃうかもしれませんけど……。 その時は、ごめんなさい……。",
 				"machine-translation": "<Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translation of raw-japanese>"
 			},
 			"Appearance": {
-				"raw-japanese": "<Moonrunes>",
+				"raw-japanese": "あなたが団長さんですか。わたし、アプリコットって言います。漢方薬とかには詳しいんですけど、戦いは怖くて……。でも、団長さんが励ましてくれたらがんばれると思います……から！  あの、よろしくお願いします！",
 				"machine-translation": "<raw-japanese Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Starting a Battle 1": {
-				"raw-japanese": "<Moonrunes>",
+				"raw-japanese": "敵が来ちゃいましたぁ",
 				"machine-translation": "<raw-japanese Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"General (Happy)": {
-				"raw-japanese": "<Moonrunes>",
+				"raw-japanese": "えへへ、もっと甘えさせてください",
 				"machine-translation": "<raw-japanese Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"

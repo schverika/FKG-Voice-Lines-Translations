@@ -5,258 +5,258 @@
 				"raw-japanese": "<Moonrunes>",
 				"machine-translation": "<Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
-				"fan-translation": "<Human Translation of raw-japanese>"
+				"fan-translation": "My name is Lily Rubellum. I don't stand out, and my social status is all I have going for me, but I'll still try my best! In flower language I'm Purity. I never tell lies, and try to live as straightforward as I can!"
 			},
 			"Appearance": {
 				"raw-japanese": "<Moonrunes>",
 				"machine-translation": "<raw-japanese Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
-				"fan-translation": "<Human Translations of raw-japanese>"
+				"fan-translation": "N- Nice to meet you, uh... my lord? Right? I don't know how much I can help, but I'll give it my best shot."
 			},
 			"Starting a Battle 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "あ、戦闘ですね？",
+				"machine-translation": "Oh, is that a battle?",
+				"mt-translation": "Oh, are we going to fight?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"General (Happy)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "さわやかですね",
+				"machine-translation": "It's refreshing",
+				"mt-translation": "I feel so refreshed",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Attacking 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "それっ！",
+				"machine-translation": "Eh! That!",
+				"mt-translation": "Eh! Take that!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Attacking 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "まだまだやれます",
+				"machine-translation": "I can still do it.",
+				"mt-translation": "I can still do it.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"General (Sad)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "ええ…そんなことって…",
+				"machine-translation": "Yeah ... such a thing ...",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Battle Skill 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "これでどうです！",
+				"machine-translation": "Eh! How in this!",
+				"mt-translation": "Eh! How about this!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Battle Skill 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "どうか決まって！",
+				"machine-translation": "Please decide!",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"General (Anger)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "あーんっ、もう怒っちゃいます！",
+				"machine-translation": "Ah, I got mad now!",
+				"mt-translation": "Argh, now I'm mad!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Hit Damage": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "あああっ、気をつけなくちゃ",
+				"machine-translation": "Oh, you have to be careful",
+				"mt-translation": "Ow! I need to be more careful.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Hit Damage (Fatal)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "う、まだがんばれるわ…",
+				"machine-translation": "Well, I will still try my best ...",
+				"mt-translation": "Ah, but I tried my best...",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Cannot Battle": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "みんな、ごめんなさい…",
+				"machine-translation": "Everyone, sorry ...",
+				"mt-translation": "I'm sorry everyone...",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"General (Excited)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "えへへ、はりきっちゃいます",
+				"machine-translation": "Well, I'm crazy",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Victory in Battle 1 (Normal Victory)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "うん、なかなかですね",
+				"machine-translation": "Yes it is quite",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Victory in Battle 2 (Narrow Victory)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "なんとか勝てたみたいです…",
+				"machine-translation": "I think I managed to win ...",
+				"mt-translation": "I think we managed to defeat them...",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Logging in 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "準備も調いました。",
+				"machine-translation": "I also prepared the preparation. alright, let's go",
+				"mt-translation": "I've finished getting everything prepared.  Come on, let's go.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Victory in Battle 3 (Easy Victory)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "うまくいきましたねっ",
+				"machine-translation": "Was it successful?",
+				"mt-translation": "Did we beat them?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Unable to Defeat the Enemy 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "間違えちゃったかな…",
+				"machine-translation": "that? I wonder if I made a mistake ...",
+				"mt-translation": "Did I make a mistake there...?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Unable to Defeat the Enemy 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "うまくいかなかったみたいです…",
+				"machine-translation": "It seems that it did not go well ...",
+				"mt-translation": "That didn't go well at all...",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Logging in 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "害虫って、本当にやっかいですよね",
+				"machine-translation": "Pests are really awful",
+				"mt-translation": "Pests are really awful",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Hidden Door Found": {
 				"raw-japanese": "<Moonrunes>",
 				"machine-translation": "<raw-japanese Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
-				"fan-translation": "<Human Translations of raw-japanese>"
+				"fan-translation": "I think we can go into this stage."
 			},
 			"Treasure Chest": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "お仲間さんを発見しました",
+				"machine-translation": "I found a friend.",
+				"mt-translation": "I think I found an ally.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Talking 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "団長さんは、グラジオラスちゃんを知ってますか？グラジオラスちゃんは、とっても強くて、私と違ってとーってもかっこいいんです。はぁ…私もあんな風になれたらなぁ",
+				"machine-translation": "Does the headmaster know Gladiolas? Gradiolus is very strong, it is cool too, unlike me. Haa ... I wish I could be like that",
+				"mt-translation": "Knight Commander, do you know Gladiolus? She's really cool and strong, unlike me. Ha... I wish I could be like her.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Party Member Selection 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "うれしいです、よろしくお願いします",
+				"machine-translation": "I'm happy, thank you",
+				"mt-translation": "I'm happy that you chose me, thank you.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Party Member Selection 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "お役に立てるように、がんばります",
+				"machine-translation": "I will do my best to serve you.",
+				"mt-translation": "I will do my best to serve you.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Change Equipment": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "これ、私に似合うかな…",
+				"machine-translation": "I wonder if this will suit me ...",
+				"mt-translation": "I wonder if this will suit me ...",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Talking 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "私、こんなに引っ込み思案で目立たないですけど、実は家柄はよくって…それがなんだかプレッシャーですよぅ… でも、団長さんのお役に立てるように、がんばってみたいです",
+				"machine-translation": "I am not conspicuous with such a retraction, but in fact the family is good ... that is somehow under pressure ... However, I would like to do my best to serve as the headmaster",
+				"mt-translation": "I'm not very conspicuous, even though I come from a noble family... I worry that I can't live up to my family name... Even so, I want to do my best to serve the Knight Commander",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Leveling Up": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "前より強くなれたかな？",
+				"machine-translation": "Did I become stronger than before?",
+				"mt-translation": "Have I become stronger?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Evolution": {
 				"raw-japanese": "<Moonrunes>",
 				"machine-translation": "<raw-japanese Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
-				"fan-translation": "<Human Translations of raw-japanese>"
+				"fan-translation": "Ah... I've changed again..."
 			},
 			"Play Gacha FREE 1x Daily": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "さ、なにかいいことあるかもですよ？",
+				"machine-translation": "Something good, maybe?",
+				"mt-translation": "Maybe you can get something good?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"My Page General Use 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "団長さん、一緒にがんばりましょうね？",
+				"machine-translation": "Let's do our best together, will not you?",
+				"mt-translation": "Let's do our best together, okay?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Talking 3": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "なんだか最近、グラジオラスちゃんを見たときに感じる想いと、団長さんと一緒にいるときに感じる想いが、似てきてるような気がするんです。 団長さんは私のあこがれで…そして、男の人で…えと…その…この気持ち、どうすれば収まるんでしょう？",
+				"machine-translation": "Somehow recently, I feel that the feelings I feel when I see Gradiolus and the feelings I feel when I'm with the headmaster. My grandmaster is longing for myself ... And a man ... And ... That ... ... How do you feel about this feeling?",
+				"mt-translation": "Recently I've been feeling the same feeling when I'm with the Knight Commander as I do when I'm watching Gladiolus. I want to keep the Knight Commander all to myself... And... Um... Well... Do you feal the same?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"My Page General Use 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "今日も害虫退治に出かけましょう",
+				"machine-translation": "Let's go out for pest control today as well",
+				"mt-translation": "Let's go exterminate pests again today.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Stamina is fully recovered": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "また害虫退治に出かけましょ？",
+				"machine-translation": "The stamina is full. Let's go out to pest insects again?",
+				"mt-translation": "Your stamina is full. Should we go out to exterminate pests again?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"My Page General use 3": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "団長さん、私にできることがあったら言ってください",
+				"machine-translation": "Headmaster, please say something I can do",
+				"mt-translation": "Knight Commander, please tell me how I can help you",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"My Page Placement": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "あの…ずっと会えなくてさびしいです…",
+				"machine-translation": "Um ... I feel lonely without meeting ...",
+				"mt-translation": "Um... I'll feel lonely without you around...",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Giving Gifts 1": {
 				"raw-japanese": "<Moonrunes>",
 				"machine-translation": "<raw-japanese Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
-				"fan-translation": "<Human Translations of raw-japanese>"
+				"fan-translation": "Thank you very very much ? I'll cherish it always!"
 			},
 			"Giving Gifts 2": {
 				"raw-japanese": "<Moonrunes>",
 				"machine-translation": "<raw-japanese Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
-				"fan-translation": "<Human Translations of raw-japanese>"
+				"fan-translation": "Whoa, awesome! I love these! How did you know?!"
 			},
 			"Moving 1": {
 				"raw-japanese": "<Moonrunes>",
 				"machine-translation": "<raw-japanese Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
-				"fan-translation": "<Human Translations of raw-japanese>"
+				"fan-translation": "Alright, please follow me."
 			},
 			"Moving 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "どんどん前に進みましょう",
+				"machine-translation": "Let's move forward",
+				"mt-translation": "Let's keep moving forward.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Title": {
 				"raw-japanese": "<Moonrunes>",
 				"machine-translation": "<raw-japanese Translation with software>",
 				"mt-translation": "<Human Translation of machine-translation>",
-				"fan-translation": "<Human Translations of raw-japanese>"
+				"fan-translation": "Flower Knight Girl"
 			},
 			"Login Bonus": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "今日も害虫退治です",
+				"machine-translation": "It is a pest eradication today as well.",
+				"mt-translation": "Today will be another day of pest extermination.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			}
 		}

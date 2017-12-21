@@ -26,9 +26,9 @@
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Starting a Battle 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "私…力の限り戦います",
+				"machine-translation": "I ... I will fight as much as I can",
+				"mt-translation": "I... I will fight as much as I can",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Attacking 1": {
@@ -134,21 +134,21 @@
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Defeated an Enemy 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "やった、決まったよ！",
+				"machine-translation": "I did it, I decided!",
+				"mt-translation": "I did it, I won!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Defeated an Enemy 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "私にもできました！",
+				"machine-translation": "I could do it!",
+				"mt-translation": "I could do it!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Logging In 3": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "私、まっすぐに戦えてますか？",
+				"machine-translation": "Am I able to fight straight?",
+				"mt-translation": "Will you need me to fight today?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Hidden Door Found": {
@@ -284,57 +284,57 @@
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Battle Skill 3 (bloomed)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "決めて…みせます！",
+				"machine-translation": "I decide ... I will show it!",
+				"mt-translation": "That's it... I'll show them!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Battle Skill 4 (bloomed)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "勝負どころですね！",
+				"machine-translation": "It is a game winning place!",
+				"mt-translation": "We'll beat them here!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"My Page General use 4 (bloomed)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "少しずつですけど、団長さんの力になれている…そんな気がしています",
+				"machine-translation": "Although it is little by little, I am used to the captain 's power ... I feel that way",
+				"mt-translation": "Little by little, I'm starting to understand the Knight Commander's power... Or at least I think so",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"My Page General use 5 (bloomed)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "昔よりも、強くなった実感はあります。 でも、不思議ですね…強くなれば強くなるほど、自分の至らないところが見えてきます。 妙な感じです……グラジオラスちゃんも、こんな気分だったのかな…？",
+				"machine-translation": "I feel stronger than before. But it is strange ... the stronger you become, the more you can not see yourself. It is a strange feeling ...... Maybe Gladiolus was feeling like this ...?",
+				"mt-translation": "I feel stronger than before. But it's strange... it seems like the stronger you become, the harder it is to depend on others. It's an odd feeling...  Maybe this is how Gladiolus feels...?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"My Page General use 6 (bloomed)": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "はぁ、はぁ、はぁ…あ、団長さん、お疲れ様です！ ちょっと、型稽古をしていて…ようやく、形になってきました。 ふぅ…この調子で、もっと頑張ります！",
+				"machine-translation": "Haa, huh, huh ... Oh, my head coach, thanks for your hard work! Hey, I was doing type practice ... Finally, it came in shape. Fu ... I will do my best with this condition!",
+				"mt-translation": "Haa, *huff* *huff* ... Oh, Knight Commander, thank you for all your hard work! I was doing some spear practice, it finally feels like it's coming together.  Fu... I'll keep working to improve!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Conversation 4": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "いつか、グラジオラスちゃんと並び立てるような、立派な花騎士になりたい…！ そう思って頑張ってきました。 そのおかげで、足を引っ張らないくらいにはなれたかな…と思います。 背中を任せてもらえるのは、まだ、ずっと先みたいですけど。",
+				"machine-translation": "Someday, I would like to be a fine flower knight like lining up with Gladiolas ...! I pushed hard on thinking so. Thanks to that, I wonder if I could not pull my legs ... I think. It seems to be a long way ahead that I can leave my back. Hi! ♪",
+				"mt-translation": "Someday, I want to be a great flower knight standing side-by-side with Gladiolus! I've pushed myself hard to achieve that goal, though I don't know, maybe it's too difficult for me... It seems so far away, but even so I won't give up. Hiya! ♪",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Conversation 5": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "私、花騎士になってから、誰かに背中を守ってもらってばかりです。 だから、今度は私が、グラジオラスちゃんや団長さんの背中を守りたいんです…！ そのためには、もっと強くならなくちゃ！",
+				"machine-translation": "Since I became a flower knight, I have just kept my back on someone. Therefore, next time I want to protect the back of Gradiolus and the headmaster ...! To do that, we have to get even stronger!",
+				"mt-translation": "Ever since I became a flower knight I've had to have others watching my back. Because of that, next time I want to be the one protecting Gladiolus and the Knight Commander!  To do that, I have to become even stronger!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Conversation 6": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "相変わらず、自分には自信はありません…。 ですけど、一つだけ、これだけは自信を持って言えます！ 私は、もっと強くなります！ 団長さんと一緒にいると、なぜだか、そう思うんです。",
+				"machine-translation": "As usual, I am not confident .... But, only one thing, I can say with confidence! I will be stronger! When I am with the headmaster, why do you think so.",
+				"mt-translation": "As usual, I am not very confident...  But there is one thing that I can say with absolute confidence!  I will become stronger!  When I'm with the Knight Commander, I know this.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Passing through pest nest": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"raw-japanese": "ううっ、痛い！ …気をつけなくちゃ…",
+				"machine-translation": "Huh, it hurts! I have to be careful ...",
+				"mt-translation": "Ow, that hurts! I have to be more careful...",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Christmas 2015 1": {

@@ -338,86 +338,98 @@
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Christmas 2015 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "メリークリスマス！ 全ての人々が、安らかに過ごせることを願っております。 …だけどもう一つ、私だけの願いを言ってもいいですか？ その…今日だけ、今日だけでいいんです。 私に、団長さんを独り占めさせてください。",
+				"machine-translation": "Merry Christmas! I hope that all people can spend peacefully. ... But may I just say my wish? That ... only today, I need only today. Please let me have a headmasterhip.",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Christmas 2015 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "今日はお部屋の飾り付けを頼まれているんです。 こればっかりは、グラジオラスちゃんに負けませんよ。 綺麗で温かなお部屋にしたいんです。 みんなや、団長さんに喜んでもらえるように、頑張りますね。",
+				"machine-translation": "I am asked to decorate the room today. As for this, I will not lose to Gladiolus. I would like to make a clean and warm room. Everyone and I will do my best to make the headmaster glad.",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Tanabata 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "天の川を隔てて、離ればなれになった恋人は一年に一度だけ会うことを許される。 なんて切ないお話なのでしょう。 美しく、そして強い絆を感じます。 私は一年耐えられるかな？ 団長さんはどうですか？ 私と会えなくなったら、何日くらい我慢できるのかなって",
+				"machine-translation": "A lover who is separated from the Milky Way is allowed to meet only once a year. What a disappointing story. I feel a beautiful and strong bond. I wonder if I can bear it for a year? How is the headmaster? If I can not meet with you, how long can I endure?",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Tanabata 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "団長さんお願い事は決まりましたか？はい、これ！団長さんの分の短冊です。団長さんの事だから騎士団全体の事をお願いするんですよね。 いえ、それでこそ団長さんだと思います。でも、私の事も書いて貰えたらうれしいなぁって思います",
+				"machine-translation": "Mr. Mr. Mae Do you have decided what you asked for? Yes, this! It is a strip of minutes by the headmaster. Because it's about the headmaster, you ask the whole knight team, do not you? No, I think that it is your headmaster. But I think I'm happy if you could write me as well",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Summer 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "団長さん、だいぶぐったりしてますね。大丈夫ですか?私は平気です、バナナオーシャン育ちですからこれくらいなんともないんです。 でも、団長さんが辛そうだと、私まで具合が悪くなっちゃいそうです",
+				"machine-translation": "The headmaster, I'm pretty busy. Is it okay? I am fine, because I am raised with a banana ocean, this is absolutely nothing. But if the headmaster seems to be tough, I'm getting sick",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Summer 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "暑いからって肌を出すのは逆効果なんですよ。日差しが強い時は、露出を少なくした方が肌へのダメージを減らせます。 取り敢えず団長さんは服を着て下さい。それじゃ日焼けしちゃいます",
+				"machine-translation": "It is counterproductive to get skin out because it is hot. When the sun is strong, less exposure can reduce damage to the skin. For yourself, please do not wear your clothes. Then it will get sunburned",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Moon Viewing 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "流石に夜は冷えますね。はい、温かいお茶です。お団子と一緒に召し上がってください。 ふふっ、月を見上げる団長さんの横でお茶を入れる、そんなことが出来るなんてすごく幸せです",
+				"machine-translation": "I feel cold at night. Yes, it is warm tea. Please eat it with dumplings. Haha, I put a cup of tea next to the headmaster looking up at the moon, I am very happy to be able to do such a thing",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Moon Viewing 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "団長さん、さっきから私の顔ばかり見てどうしたんですか？今夜はお月見ですよ。そんなにじろじろ見られると照れちゃいます。 綺麗に見えるのは、月明かりと団長さんのせいですよ",
+				"machine-translation": "Headmaster, what did you do with just looking at my face from a while ago? Tonight is a moonlight. I will be shy if I can stare so stinkily. It is because of the moonlight and the headmaster who looks beautiful",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Fall 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "焼き芋をしようと思って、落ち葉を集めていたんですけど……色付いた葉っぱが綺麗で…。結局、もったいなくなっちゃいました。",
+				"machine-translation": "I thought about trying for sweet potatoes, and I was collecting fallen leaves .... The leaves with colors are beautiful .... After all, it became a waste.",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Fall 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "少し太ったかなぁ。…お腹のお肉がぷにぷにしてきたような…。…もう、団長さん！気にしてるんですから、笑っちゃダメですよ！ …秋は美味しいものが多いから、食べ過ぎちゃったのかなぁ…。",
+				"machine-translation": "I wonder if I got a little fat. ... The stomach meat seems to be pounding .... ... Already, the headmaster! I am mindful, so do not laugh! ... There are a lot of delicious autumn, so I wonder if I ate too much ....",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Halloween 1": {
+				"raw-japanese": "団長さん、お菓子の用意はできましたか。今日は子供たちがたくさん遊びに来ますからね。おばけの仮装もばっちり。 もちろん団長さんがやるんですよ。うふっ、楽しみにしてますね。",
+				"machine-translation": "Mr. Mae, could you prepare sweets? Today we will have plenty of children to play. The costume of a ghost is also perfect. Of course the headmaster is doing it. I refuse, I am looking forward to it.",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Halloween 2": {
+				"raw-japanese": "秋はイベントが少ないから、ハロウィンがあるとちょうどいいですね。私は団長さんと一緒ならいつだって嬉しいですけどね。 でも、お菓子を貰えたらもっと嬉しい……かな。",
+				"machine-translation": "Since autumn has few events, it is just right that there is Halloween. I am always happy if I am with the head coach. But I'd be more happy if I got sweets ...",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Winter 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "暖かい所で育ったので、寒いのはどうも苦手です。団長さん、もう少し、くっついていいですか？団長さんの身体、暖かいです。",
+				"machine-translation": "I grew up in a warm place, so I am not good at cold. Mayor, you can be a little more sticky? The head of the grandmother is warm.",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Winter 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "団長さん！風邪ですか？なんだか、声が少し変ですよ？体温が下がるとそれだけで体調を崩しちゃいますから、暖かくしていてくださいね。",
+				"machine-translation": "Grandmaster! Is it a cold? Somehow, the voice is a little strange? As body temperature falls, it will just get out of shape so please stay warm.",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Christmas 2016 1": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "メリ～クリスマス！今年もクリスマスがやってきましたね♪去年よりも、少しは目立てるようにお洒落したんですけど… どうですか？気に入っていただけましたか？私、もっともっと団長さんの特別になりたいです…色々と、教えてくださいっ！",
+				"machine-translation": "Merry ~ Christmas! Christmas came this year as well ♪ I felt more like I could stand a little bit than last year ... how is it? Did you like it? I, I want to become more special than the headmaster's ... Please tell me!",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Christmas 2016 2": {
-				"raw-japanese": "<Moonrunes>",
-				"machine-translation": "<raw-japanese Translation with software>",
+				"raw-japanese": "メリークリスマス！団長さん♪ケーキを焼いてきました。どうぞ、召し上がってくださいっ♪ …そんなに慌てなくても、ケーキは避けたりしませんよ？でも、喜んでもらえてよかった…団長さん…大好きですよ。",
+				"machine-translation": "Merry Christmas! The headmaster ♪ I've baked a cake. Please, please eat ♪ ... Even if I do not panic so much, I will not avoid cakes? However, I'm glad that I was pleased ... Grandmaster ... I love you.",
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},

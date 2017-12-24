@@ -397,6 +397,18 @@
 				"mt-translation": "<Human Translation of machine-translation>",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
+			"Halloween 1": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
+			"Halloween 2": {
+				"raw-japanese": "<Moonrunes>",
+				"machine-translation": "<raw-japanese Translation with software>",
+				"mt-translation": "<Human Translation of machine-translation>",
+				"fan-translation": "<Human Translations of raw-japanese>"
+			},
 			"Winter 1": {
 				"raw-japanese": "<Moonrunes>",
 				"machine-translation": "<raw-japanese Translation with software>",

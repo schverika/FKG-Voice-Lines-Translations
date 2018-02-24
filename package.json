@@ -1,0 +1,9 @@
+{
+  "name": "FKG-Voice-Lines-Translations",
+  "version": "1.0.0",
+  "description": "nodeJs scripts to assist in organising the translation of FKG voice lines",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}

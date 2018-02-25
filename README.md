@@ -17,6 +17,12 @@ After that, you can do things like this to quickly look up something specific:
 
 ``
 cd Flower\ Knights
+``
+
+``
 jq '.translations."Lily Rubellum" | keys' Lily\ Rubellum.json
+``
+
+``
 jq '.translations."Lily Rubellum"."Winter 3"' Lily\ Rubellum.json
 ``
